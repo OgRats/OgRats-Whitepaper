@@ -1,0 +1,456 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+<title>OG RATS — Whitepaper</title>
+
+<style>
+:root{
+  --bg:#0b0b0f;
+  --card:#141420;
+  --text:#e5e7eb;
+  --muted:#9ca3af;
+  --accent:#3b82f6;
+  --border:rgba(255,255,255,0.06);
+}
+
+*{
+  margin:0;
+  padding:0;
+  box-sizing:border-box;
+  font-family:system-ui, -apple-system, Segoe UI, Roboto, Arial;
+}
+
+body{
+  background:var(--bg);
+  color:var(--text);
+  line-height:1.7;
+}
+
+header{
+  position:sticky;
+  top:0;
+  background:rgba(11,11,15,0.7);
+  backdrop-filter:blur(12px);
+  border-bottom:1px solid var(--border);
+  padding:14px 6%;
+  display:flex;
+  align-items:center;
+  gap:12px;
+}
+
+header img{
+  width:38px;
+  height:38px;
+  border-radius:10px;
+}
+
+header span{
+  font-weight:700;
+  letter-spacing:1px;
+}
+
+.container{
+  max-width:900px;
+  margin:auto;
+  padding:30px 20px 80px;
+}
+
+.card{
+  background:var(--card);
+  border:1px solid var(--border);
+  border-radius:16px;
+  padding:22px;
+  margin-bottom:14px;
+}
+
+h1,h2,h3{
+  color:#93c5fd;
+  margin-bottom:10px;
+}
+
+p{
+  margin-bottom:10px;
+}
+
+ul,ol{
+  padding-left:18px;
+  margin-top:10px;
+}
+
+li{
+  margin-bottom:6px;
+}
+
+.highlight{
+  margin-top:10px;
+  padding:10px 12px;
+  border-left:3px solid var(--accent);
+  background:rgba(59,130,246,0.08);
+  border-radius:10px;
+}
+
+.footer-img{
+  width:100%;
+  border-radius:16px;
+  margin-top:20px;
+  border:1px solid var(--border);
+}
+
+footer{
+  text-align:center;
+  padding:40px 20px;
+  color:var(--muted);
+}
+
+.buttons{
+  display:flex;
+  justify-content:center;
+  gap:12px;
+  flex-wrap:wrap;
+  margin-top:18px;
+}
+
+.btn{
+  display:flex;
+  align-items:center;
+  gap:8px;
+  padding:12px 18px;
+  border-radius:12px;
+  text-decoration:none;
+  font-weight:600;
+  color:white;
+  background:rgba(255,255,255,0.06);
+  border:1px solid rgba(255,255,255,0.08);
+  transition:0.2s;
+}
+
+.btn:hover{
+  transform:translateY(-2px);
+  border-color:rgba(59,130,246,0.5);
+}
+
+.icon{
+  width:18px;
+  height:18px;
+  fill:white;
+}
+</style>
+</head>
+
+<body>
+
+<header>
+  <img src="logo.png" alt="OG RATS Logo">
+  <span>OG RATS</span>
+</header>
+
+<div class="container">
+
+<div class="card">
+<h1>🐀 OG RATS — Whitepaper</h1>
+</div>
+
+<!-- 1 -->
+<div class="card">
+<h2>1. Introduction</h2>
+
+<h3>1.1 What is OG RATS?</h3>
+
+<p>OG RATS is a collection of 2,222 NFTs built on Ronin Network.</p>
+
+<p>The project is focused on community, meme culture, social events, and active participation across Discord and X.</p>
+
+<p>OG RATS aims to build an ecosystem driven by its holders through activity, creativity, and collaboration.</p>
+
+<p>The project artwork is created by @NinjaRoninN.</p>
+
+<h3>1.2 General Information</h3>
+
+<p>Blockchain: Ronin Network</p>
+<p>Standard: ERC-721</p>
+<p>Supply: 2,222 NFTs</p>
+<p>Mint: Free Mint</p>
+<p>Focus: Community & Social Engagement</p>
+</div>
+
+<!-- 2 -->
+<div class="card">
+<h2>2. The OG RATS NFT</h2>
+
+<h3>2.1 NFT Utility</h3>
+
+<p>Holding an OG RATS grants access to:</p>
+
+<p>private Discord community</p>
+<p>weekly events</p>
+<p>social activities</p>
+<p>community rewards</p>
+<p>access to the Relic system</p>
+<p>future ecosystem activities</p>
+
+<h3>2.2 Holder Philosophy</h3>
+
+<p>OG RATS is built around active participation.</p>
+
+<p>The ecosystem rewards:</p>
+
+<p>social activity</p>
+<p>creativity</p>
+<p>community interaction</p>
+<p>ongoing support for the project</p>
+
+<p class="highlight">👉 The goal is not passive holding, but active participation within the community.</p>
+</div>
+
+<!-- 3 -->
+<div class="card">
+<h2>3. The OG RATS Ecosystem</h2>
+
+<h3>3.1 How the Ecosystem Works</h3>
+
+<ol>
+<li>Hold OG RATS</li>
+<li>Participate in events and activities</li>
+<li>Create social activity and content</li>
+<li>Earn rewards and Relic NFTs</li>
+<li>Create unique 1/1 NFTs</li>
+<li>Expand the Relic Collection</li>
+<li>Strengthen the community ecosystem</li>
+</ol>
+
+<h3>3.2 Community Participation</h3>
+
+<p>Community activity is the core of the project.</p>
+
+<p>Valued contributions include:</p>
+
+<p>Discord participation</p>
+<p>activity on X</p>
+<p>memes</p>
+<p>creative content</p>
+<p>ecosystem support</p>
+<p>interaction with other Ronin communities</p>
+</div>
+
+<!-- 4 -->
+<div class="card">
+<h2>4. Events & Activities</h2>
+
+<h3>4.1 Weekly Events</h3>
+
+<p>OG RATS hosts between 1 and 2 events every week.</p>
+
+<p>These events maintain consistent community activity.</p>
+
+<h3>4.2 Event Types</h3>
+
+<p>Events may include:</p>
+
+<p>meme contests</p>
+<p>creative challenges</p>
+<p>X raids</p>
+<p>social competitions</p>
+<p>engagement activities</p>
+<p>Discord events</p>
+<p>collaborations</p>
+
+<h3>4.3 Rewards</h3>
+
+<p>Possible rewards include:</p>
+
+<p>OG RATS NFTs</p>
+<p>NFTs from Ronin projects</p>
+<p>whitelist spots</p>
+<p>special roles</p>
+<p>collaboration access</p>
+<p>Relic system access</p>
+<p>Relic NFTs</p>
+
+<p class="highlight">👉 Events are the main reward mechanism of the ecosystem.</p>
+</div>
+
+<!-- 5 -->
+<div class="card">
+<h2>5. The Relic System</h2>
+
+<h3>5.1 What is a Relic?</h3>
+
+<p>A Relic is a special NFT within the OG RATS ecosystem.</p>
+
+<p>It functions as a redeemable access key that allows holders to create a unique 1/1 NFT inside the Relic Collection.</p>
+
+<h3>5.2 How to Obtain a Relic</h3>
+
+<p>Relic NFTs can be obtained through:</p>
+
+<p>community events</p>
+<p>contests</p>
+<p>social participation</p>
+<p>ecosystem activity</p>
+<p>collaborations</p>
+<p>optional support mint</p>
+
+<h3>5.3 Optional Relic Mint</h3>
+
+<p>Price: ~$10 USD</p>
+
+<p>Designed for:</p>
+
+<p>project supporters</p>
+<p>collectors</p>
+<p>direct access users</p>
+
+<p>Important:</p>
+
+<p>completely optional</p>
+<p>no advantages in events</p>
+<p>not required for participation</p>
+
+<p class="highlight">👉 The purpose is to support project growth.</p>
+</div>
+
+<!-- 6 -->
+<div class="card">
+<h2>6. Creation of 1/1 NFTs</h2>
+
+<h3>6.1 Redeeming Relics</h3>
+
+<p>When a holder redeems a Relic NFT:</p>
+
+<p>1. The Relic is consumed</p>
+<p>2. The holder gains 1/1 creation rights</p>
+<p>3. NFT can be created individually or with team</p>
+<p>4. NFT is added to Relic Collection</p>
+
+<h3>6.2 Creative Freedom</h3>
+
+<p>Full freedom for creation is given to holders.</p>
+
+<p>The goal is community-driven artistic expansion.</p>
+
+<h3>6.3 Value</h3>
+
+<p>Relics represent:</p>
+
+<p>participation</p>
+<p>creativity</p>
+<p>community activity</p>
+<p>exclusive access</p>
+
+<p class="highlight">👉 Relics transform activity into art.</p>
+</div>
+
+<!-- 7 -->
+<div class="card">
+<h2>7. The Relic Collection</h2>
+
+<h3>7.1 Overview</h3>
+
+<p>Second official OG RATS collection composed of 1/1 NFTs.</p>
+
+<h3>7.2 Rules</h3>
+
+<p>Max supply: 1,000 NFTs</p>
+<p>All 1/1 unique pieces</p>
+<p>No pre-mint</p>
+<p>Only via Relics</p>
+<p>Organic growth</p>
+
+<h3>7.3 Vision</h3>
+
+<p>Focused on:</p>
+
+<p>creativity</p>
+<p>identity</p>
+<p>collaboration</p>
+<p>artistic value</p>
+
+<p class="highlight">👉 Each NFT becomes part of OG RATS history.</p>
+</div>
+
+<!-- 8 -->
+<div class="card">
+<h2>8. Collaborations</h2>
+
+<p>OG RATS may collaborate across Ronin Network.</p>
+
+<p>Includes:</p>
+
+<p>joint events</p>
+<p>competitions</p>
+<p>raids</p>
+<p>shared rewards</p>
+<p>partner NFTs</p>
+<p>collaborative Relics</p>
+</div>
+
+<!-- 9 -->
+<div class="card">
+<h2>9. Future of the Project</h2>
+
+<p>May evolve with:</p>
+
+<p>new event formats</p>
+<p>social mechanics</p>
+<p>community systems</p>
+<p>interaction tools</p>
+<p>staking systems (future)</p>
+
+<p class="highlight">👉 Growth depends on community feedback.</p>
+</div>
+
+<!-- 10 -->
+<div class="card">
+<h2>10. Philosophy</h2>
+
+<p>Not a financial product.</p>
+
+<p>No profit guarantees.</p>
+
+<p>Value comes from:</p>
+
+<p>participation</p>
+<p>creativity</p>
+<p>culture</p>
+<p>social engagement</p>
+<p>NFT creation</p>
+</div>
+
+<!-- 11 -->
+<div class="card">
+<h2>11. Closing</h2>
+
+<p>OG RATS is a living community built by holders.</p>
+
+<p>Every event and Relic NFT contributes to ecosystem growth.</p>
+
+<p>The Relic Collection is a permanent archive of creativity on Ronin Network.</p>
+</div>
+
+<!-- IMAGE FINAL -->
+<img class="footer-img" src="summary.png" alt="OG RATS Whitepaper Summary">
+
+</div>
+
+<footer>
+
+<div class="buttons">
+
+<a class="btn" href="https://x.com/OgRats_" target="_blank">
+<svg class="icon" viewBox="0 0 24 24"><path d="M18.9 2H22l-6.8 7.8L23 22h-6.2l-4.9-6.4L6.3 22H3l7.3-8.4L1 2h6.3l4.4 5.8L18.9 2z"/></svg>
+X / Twitter
+</a>
+
+<a class="btn" href="https://discord.gg/A9HMxhyvB" target="_blank">
+<svg class="icon" viewBox="0 0 24 24"><path d="M20 4.5A16 16 0 0 0 16 3l-.5 1a14 14 0 0 1 3.5 1.1c-3-2-10-2-13 0A14 14 0 0 1 9.5 4L9 3c-1.4.2-2.8.7-4 1.5C1.5 9 1 14 1.5 19c2 1.5 4 2.5 6.5 3l1-2c-1-.2-2-.6-3-1 .8.5 1.6.9 2.5 1.2 3 1 6 1 9 0 .9-.3 1.7-.7 2.5-1.2-1 .4-2 .8-3 1l1 2c2.5-.5 4.5-1.5 6.5-3 .5-5-.5-10-4.5-14.5z"/></svg>
+Discord
+</a>
+
+</div>
+
+</footer>
+
+</body>
+</html>
